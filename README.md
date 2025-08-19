@@ -19,7 +19,7 @@ Tech Stack ------>>
 Frontend --->
 •	React.js (Functional Components + Hooks)
 •	Redux Toolkit (State Management)
-•	
+•	Fetch API (HTTP requests - GET, POST, etc.)
 •	Scratch UI
 •	React Router (Navigation)
 
