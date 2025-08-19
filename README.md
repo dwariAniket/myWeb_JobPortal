@@ -39,7 +39,7 @@ DevOps & Tools ------>>
 Acknowledgements ------>>
 •	Inspired by platforms like Indeed, LinkedIn Jobs.
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1e54991c-95cb-4eff-a222-a57facda73e9" />
+
 
 
 
